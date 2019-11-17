@@ -13,7 +13,7 @@ Protocol adapted from the Zymo *Quick*-RNA Miniprep Plus Test Kit and the Zymo *
 1. Wipe down workspace and equipment with bleach
 2. Wipe down workspace and equipment with water
 3. Wipe down workspace and equipment with RNase-free
-4. Wipe down workspace and equipment with isopropol alcohol
+4. Wipe down workspace and equipment with isopropyl alcohol
 
 #### Reagent Prep
 1. RNA wash buffer already prepped

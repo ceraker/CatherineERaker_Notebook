@@ -43,3 +43,5 @@
 27.	Rinse the gel box, comb, tray, and flask in DI type II water
 28.	Wipe the imager with a Kimwipe and DI type II water
 29. Return all the materials you have used to where you found them
+
+![image of gel](https://github.com/ceraker/CatherineERaker_Notebook/blob/master/data/gel_images/2020_02_27.jpg)

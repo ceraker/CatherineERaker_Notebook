@@ -30,7 +30,7 @@ Whole tissue fragments preserved in seawater and stored in the -80 freezer
   1. Label these tubes on the top and the side, as top labels can rub off in the TissueLyser 
 3. Add 750 ul ZymoBIOMICS Lysis Solution to each tube and cap tightly
 4. Put tubes in TissueLyser II (bead beater) and lock it
-5. Run at 30.0/s for 5 minutes
+5. Run at 30.0 Hz/s for 5 minutes
 6. Centrifuge Lysis Tubes at 12000 rcf for 1 minute
 7. Transfer 400 ul of the supernatant to the Zymo-Spin III-F Filter in a Collection Tube (these should come as a set)
 8. Centrifuge at 8000 rcf for 1 minute

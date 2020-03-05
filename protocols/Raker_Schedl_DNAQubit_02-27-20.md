@@ -24,7 +24,7 @@ Protocol adapted from the Life Technologies Qubit DNA BR Assay Kit and Maggie Sc
 5. Calculate necessary uL of Qubit DNA BR Buffer from amount of reagent: 5.2 uL reagent x 199 = 1034.8 uL Qubit DNA BR Buffer
 6. Add buffer and reagent to 2mL nuclease-free tube
 7. Vortex mixture and spin down: this is the Qubit working solution
-8. Label 5 nuclease-free tubes for Qubit analysis: 2 tubes for standards labeled S1 and S2, and 3 tubes for samples, labeled 2 and 6 (for 0GT50, 9IR3, and 9JQ38)
+8. Label 5 nuclease-free tubes for Qubit analysis: 2 tubes for standards labeled S1 and S2, and 3 tubes for samples, labeled GT, IR, and JQ (for 0GT50, 9IR3, and 9JQ38)
 9. Add 190 uL of Qubit working solution to each standard tube (vortex and spin down if necessary)
 10. Add 10 uL of each Qubit standard to the appropriate tubes
 11. Add 199 uL of Qubit working solution to each sample tube
@@ -33,7 +33,7 @@ Protocol adapted from the Life Technologies Qubit DNA BR Assay Kit and Maggie Sc
 14. Vortex all 5 tubes and spin down (use inserts in minifuge if necessary)
 
 #### Reading standards and samples
-1. On the Home screen of the Qubit® 2.0 Fluorometer, press **DNA**, then select **DNA Broad Range** as the assay type. The Standards screen is displayed.
+1. On the Home screen of the Qubit® 2.0 Fluorometer, press **DNA**, then select **DNA High Sensitivity** as the assay type. The Standards screen is displayed.
 2. On the Standards screen, press **Yes** to read the standards.
 3. Insert the tube labeled S1 into the sample chamber, close the lid, then press **Read**. When the reading is complete (~3 seconds), remove S1. **Reading was: 51.04 rfu**
 4. Insert the tube labeled S2 into the sample chamber, close the lid, then press **Read**. When the reading is complete (~3 seconds), remove S2. **Reading was: 17114**

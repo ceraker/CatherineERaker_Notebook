@@ -31,6 +31,7 @@ survminer_field$days.alive <- difftime(survminer_field$ymd.mortality ,survminer_
 ```
 
 Example of formatted data
+
 ![survminer data](https://github.com/ceraker/CatherineERaker_Notebook/blob/master/protocols/pictures/survminerdata_example.png)
 
 Create survival and survfit objects
@@ -51,6 +52,7 @@ s3
 ```
 
 The plot:
+
 ![KM plot](https://github.com/ceraker/CatherineERaker_Notebook/blob/master/protocols/pictures/KM_example.png)
 
 If you want to cut off all curves at the same point the lazy cheater way:

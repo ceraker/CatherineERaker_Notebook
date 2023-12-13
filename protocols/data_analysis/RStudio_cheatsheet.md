@@ -35,12 +35,21 @@ df[is.element(df$state, c('CA','AZ','PH')),]
 # Using subset
 subset(df, state %in% c("CA", "AZ", "PH"))
 
+
 # Using dplyr::filter
 dplyr::filter(df, state %in% c("CA", "AZ", "PH"))
 
 # Using data.table
 library(data.table)
 setDT(df, key = 'state')[J(c("CA", "AZ", "PH"))]
+```
+###### Add new column based on values in existing column
+```
+meta2$acclimation2 <- case_when(meta2$acclimation == 1 ~ 126,
+                               meta2$acclimation == 2 ~ 112,
+                               meta2$acclimation == 3 ~ 38,
+                               meta2$acclimation == 4 ~ 24,
+                               meta2$acclimation == 5 ~ 0,)
 ```
 
 ###### Aggregate long dataframe to wide dataframe

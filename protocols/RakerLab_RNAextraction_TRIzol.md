@@ -1,8 +1,3 @@
----
-output:
-  word_document: default
-  html_document: default
----
 ## Raker Lab RNA Extractions
 ### Performed by: Cassie Raker, Meagan Beaver, Khyara Perez, and Tommy Sah
 #### Samples: *Orbicella faveolata* fragments from Dr. Raker's dissertation research in La Parguera, Puerto Rico (ciliate stress, growth, and acclimation)
